@@ -17,5 +17,5 @@ if (choice === "add"){
 }else if (choice === "div"){
     console.log(div(a,b));
 }else {
-    console.log('invalid choice');
+    console.log('invalid choice. try again');
 }
